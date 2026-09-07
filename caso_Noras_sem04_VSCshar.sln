@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37502.11 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "caso_Noras_sem04_VSCshar", "caso_Noras_sem04_VSCshar.csproj", "{42E9D72F-5A0A-43EB-9498-DCD6F3DD31C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42E9D72F-5A0A-43EB-9498-DCD6F3DD31C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42E9D72F-5A0A-43EB-9498-DCD6F3DD31C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42E9D72F-5A0A-43EB-9498-DCD6F3DD31C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42E9D72F-5A0A-43EB-9498-DCD6F3DD31C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B27E253E-0C01-4D56-AFB5-FCD4E2313CE1}
+	EndGlobalSection
+EndGlobal
